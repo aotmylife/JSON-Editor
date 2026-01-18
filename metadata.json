@@ -1,0 +1,5 @@
+{
+  "name": "JSON Nexus: Formatter & Kotlin Architect",
+  "description": "A professional-grade JSON utility for formatting, tree exploration, and instant Kotlin Data Class generation with @SerializedName annotations.",
+  "requestFramePermissions": []
+}
