@@ -6,7 +6,9 @@ export interface JsonNodeProps {
   depth?: number;
 }
 
-export type ViewMode = 'PRETTY' | 'TREE' | 'KOTLIN';
+export type ViewMode = 'PRETTY' | 'TREE' | 'MODELS';
+
+export type Language = 'KOTLIN' | 'JAVA' | 'TYPESCRIPT' | 'SWIFT' | 'PYTHON' | 'CSHARP';
 
 export interface GeneratedClass {
   className: string;
